@@ -1,5 +1,6 @@
 # GeneratingDifficultyControllableMultiple-ChoiceQuestionByIterativelyGuidingTheLargeLanguageModel
-+ The ten labeling models are:
+The ten labeling models are:
+
 + t5-small-ssm-nq
 + t5-large-ssm-nq
 + kda-scibert-uncased-race
