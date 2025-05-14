@@ -13,5 +13,5 @@ The ten labeling models are:
 + kda-biobert-large-race
 
 
-
+The D-RACE dataset can be obtained by downloading the D-RACE.csv file. 
 
